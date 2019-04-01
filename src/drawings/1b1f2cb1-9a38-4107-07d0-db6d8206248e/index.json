@@ -1,0 +1,799 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 15,
+          "y": 115
+        },
+        "size": {
+          "width": 584,
+          "height": 410
+        },
+        "angle": 0,
+        "label": "<span data-role=\"tag\" data-value=\"1cf6117e-972f-e7f3-78d5-a1a026695400\" id=\"idee285795-3626-1134-5aef-bb2db08cdf39\" data-type=\"term\">network</span>",
+        "strokeStyle": "dashed",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "4490fe79-f2d0-4005-a02d-d8e6e2d867e0",
+        "z": 1,
+        "labelLayout": {
+          "labelBoxWidth": 532.9549560546875,
+          "fullString": "NETWORK 106",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NETWORK 106",
+              "width": 87.15890502929688,
+              "x": 222.8980255126953,
+              "y": 0
+            }
+          ],
+          "textWidth": 87.15890502929688,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "37a2470a-cdd2-ef3a-6fd5-1a50a2e47d78",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "bottom",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 32.999999999998295,
+          "y": 171.00000000000102
+        },
+        "size": {
+          "width": 252,
+          "height": 318
+        },
+        "angle": 0,
+        "label": "<span data-role=\"tag\" data-value=\"c5423580-697a-a31e-3720-5f1ac78d9d6f\" id=\"id00529430-0941-bd13-0bb8-96e8794e3ece\" data-type=\"term\">client facility</span>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "2d4bd836-3675-4fad-9177-4588f5fe8fbf",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 229.97372436523438,
+          "fullString": "CLIENT FACILITY 102",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "CLIENT FACILITY 102",
+              "width": 119.07585144042969,
+              "x": 55.448936462402344,
+              "y": 267.99672763671873
+            }
+          ],
+          "textWidth": 119.07585144042969,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "c82beb07-1ecd-2d71-9b62-2209294e1b20",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "bottom",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 366.9999999999982,
+          "y": 174.0000000000008
+        },
+        "size": {
+          "width": 207,
+          "height": 316
+        },
+        "angle": 0,
+        "label": "<span data-role=\"tag\" data-value=\"09932fad-29cb-876f-476a-c29c72835b03\" id=\"id6f0cb247-080f-1d4a-290c-948eb6ea0d29\" data-type=\"term\">gateway facility</span>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "7a791dce-da0a-49a0-b4ac-fec6c01f0518",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 188.906982421875,
+          "fullString": "GATEWAY FACILITY 104",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "GATEWAY FACILITY 104",
+              "width": 131.42169189453125,
+              "x": 28.742645263671875,
+              "y": 266.17913120117186
+            }
+          ],
+          "textWidth": 131.42169189453125,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "cb6e0257-edb9-b604-9084-b641467f48de",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "",
+        "position": {
+          "x": 47.99999999999997,
+          "y": 185.00000000000014
+        },
+        "size": {
+          "width": 110,
+          "height": 67
+        },
+        "angle": 0,
+        "label": "<span data-role=\"tag\" data-value=\"e10bf6a1-5d60-7e03-1d52-bcda19df6a01\" id=\"ide4b7ba4a-2dd5-5378-8dbf-8814ff424fef\" data-type=\"term\">security facility</span>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "870fbb68-efae-4699-a897-304ee41f38f4",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 100.3853530883789,
+          "fullString": "Security Facility 108",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "Security Facility",
+              "width": 90.68496704101562,
+              "x": 4.850193023681641,
+              "y": 9.44458835449219
+            },
+            {
+              "text": "108",
+              "width": 22.386520385742188,
+              "x": 38.99941635131836,
+              "y": 30.444625854492188
+            }
+          ],
+          "textWidth": 90.68496704101562,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "f8a5a453-4ea4-a217-c438-90b49b5bc390",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "",
+        "position": {
+          "x": 165,
+          "y": 185
+        },
+        "size": {
+          "width": 110,
+          "height": 67
+        },
+        "angle": 0,
+        "label": "<span data-role=\"tag\" data-value=\"242cd6c9-87bf-f9c9-16e7-1fc3f94dc785\" id=\"id379ed1ad-ec0a-da28-fd47-3ffe435a60ae\" data-type=\"term\">network control facility</span>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "0d7bba19-fd0e-317a-0b11-c210cd63e0ad",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 100.3853530883789,
+          "fullString": "Network Control Facility 110",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "Network Control",
+              "width": 97.97402954101562,
+              "x": 1.2056617736816406,
+              "y": 9.44458835449219
+            },
+            {
+              "text": "Facility 110",
+              "width": 66.02973937988281,
+              "x": 17.177806854248047,
+              "y": 30.444625854492188
+            }
+          ],
+          "textWidth": 97.97402954101562,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "8475580f-e190-d551-1c7f-04d9866c8676",
+        "number": 10
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "<span data-role=\"tag\" data-value=\"7c6493ae-d12c-6c12-79f7-0861ea706a84\" id=\"id9cdf3221-6381-c3f8-9c4a-1cbb2e367502\" data-type=\"term\">application</span>",
+        "position": {
+          "x": 50,
+          "y": 271
+        },
+        "size": {
+          "width": 110,
+          "height": 68
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"7c6493ae-d12c-6c12-79f7-0861ea706a84\" id=\"idc3a7b6b5-1650-3c5d-78c6-be7b8fe0913b\" data-type=\"term\">application</span>&nbsp;auto or <span data-role=\"tag\" data-value=\"22f6155b-f771-f1d2-8974-37483e9ff201\" id=\"id7c242a5e-a727-7ea2-f013-a0f13f624074\" data-type=\"term\">user request</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "57ea39de-4449-9ada-336f-4f692452c1c8",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 100.20500946044922,
+          "fullString": "Application Auto or User Request 112",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "Application Auto",
+              "width": 97.57313537597656,
+              "x": 1.3159370422363281,
+              "y": -0.6861924957275356
+            },
+            {
+              "text": "or User Request",
+              "width": 95.95132446289062,
+              "x": 2.126842498779297,
+              "y": 20.313845004272462
+            },
+            {
+              "text": "112",
+              "width": 22.386520385742188,
+              "x": 38.909244537353516,
+              "y": 41.313882504272456
+            }
+          ],
+          "textWidth": 97.57313537597656,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "94a86f24-c6fe-0e58-1cc0-cb2e51df99fd",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "",
+        "position": {
+          "x": 167,
+          "y": 271
+        },
+        "size": {
+          "width": 110,
+          "height": 68
+        },
+        "angle": 0,
+        "label": "IDE",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "c3a151ae-0ead-d912-962a-f82df0d3b0a5",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 100.20503234863281,
+          "fullString": "IDE 114",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "IDE 114",
+              "width": 45.948394775390625,
+              "x": 27.128318786621094,
+              "y": 20.31360658569336
+            }
+          ],
+          "textWidth": 45.948394775390625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5a61ebdc-be8c-9ce8-baa3-ba484717936c",
+        "number": 14
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cylinder",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "<p><span data-role=\"tag\" data-value=\"41f23247-1086-4248-3d09-b3e9f75cd84c\" id=\"ida4b6dbdf-482e-163b-290f-5b949a16192d\" data-type=\"term\">database</span></p>",
+        "position": {
+          "x": 725,
+          "y": 522
+        },
+        "size": {
+          "width": 89.95275840759277,
+          "height": 89.95275840759277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "8a0a62fa-8ff4-43f0-8d88-252f6b36e9a2",
+        "z": 8,
+        "labelLayout": {
+          "labelBoxWidth": 80.21441650390625,
+          "fullString": " 116",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": " 116",
+              "width": 22.386520385742188,
+              "x": 28.91394805908203,
+              "y": 10.842296923828126
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a33ad511-3767-2b51-c086-db3e7db5e9d0",
+        "number": 16
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "titlecase",
+        "showLabel": true,
+        "source": {
+          "id": "7a791dce-da0a-49a0-b4ac-fec6c01f0518"
+        },
+        "target": {
+          "id": "8a0a62fa-8ff4-43f0-8d88-252f6b36e9a2"
+        },
+        "id": "b49d095f-1155-4013-9a2c-2b52d7e960c2",
+        "embeds": "",
+        "z": 9,
+        "routing": "straight",
+        "objectID": "d856d557-2da9-5369-247a-60041d535be8",
+        "labelVAlign": "center",
+        "labelPosition": "internal"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "",
+        "position": {
+          "x": 50.999999999999886,
+          "y": 361.0000000000002
+        },
+        "size": {
+          "width": 110,
+          "height": 68
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"2db667a4-537b-1b17-b1cc-1ae36f03e24c\" id=\"idd65b547d-bb71-afae-f789-b0b91b1c6617\" data-type=\"term\">policy facility</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "20593fb9-bdcc-4ed1-a2d5-08df7769d48a",
+        "z": 10,
+        "labelLayout": {
+          "labelBoxWidth": 100.2066650390625,
+          "fullString": "Policy Facility 118",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "Policy Facility",
+              "width": 77.79244995117188,
+              "x": 11.207107543945312,
+              "y": 9.808777502441409
+            },
+            {
+              "text": "118",
+              "width": 22.386520385742188,
+              "x": 38.910072326660156,
+              "y": 30.808815002441406
+            }
+          ],
+          "textWidth": 77.79244995117188,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "6326df89-68d7-5794-93c2-1ec9ba0a1e4a",
+        "number": 18
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "",
+        "position": {
+          "x": 167,
+          "y": 361
+        },
+        "size": {
+          "width": 110,
+          "height": 68
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"377919df-88a2-04c6-35cb-95c0ca24f7fe\" id=\"idbb03d09b-44b4-7543-abd9-90d116e1a949\" data-type=\"term\">remedial action facility</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "442412d6-83ea-d11a-0ba8-2a5b10bd98e1",
+        "z": 11,
+        "labelLayout": {
+          "labelBoxWidth": 100.3853530883789,
+          "fullString": "Remedial Action Facility 120",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "Remedial Action",
+              "width": 96.69845581054688,
+              "x": 1.8434486389160156,
+              "y": 9.898987463378909
+            },
+            {
+              "text": "Facility 120",
+              "width": 66.02973937988281,
+              "x": 17.177806854248047,
+              "y": 30.899024963378906
+            }
+          ],
+          "textWidth": 96.69845581054688,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "e3455a20-aed2-8677-0578-ea3d449aa214",
+        "number": 20
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "titlecase",
+        "showLabel": true,
+        "source": {
+          "id": "2d4bd836-3675-4fad-9177-4588f5fe8fbf"
+        },
+        "target": {
+          "id": "7a791dce-da0a-49a0-b4ac-fec6c01f0518"
+        },
+        "id": "dccb0c3b-833f-4c9f-a986-210074f7d7b1",
+        "embeds": "",
+        "z": 12,
+        "routing": "straight",
+        "objectID": "34ec5e5b-373e-b05a-035a-70794dccd670",
+        "labelVAlign": "center",
+        "labelPosition": "internal"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "",
+        "position": {
+          "x": 387,
+          "y": 221.00000000000034
+        },
+        "size": {
+          "width": 168,
+          "height": 74
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"c439fcdd-156c-824f-35d4-1731de21db4b\" id=\"idfdec9cb0-08cd-e5f5-8d32-de5e14f31fe5\" data-type=\"term\">network access control</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "9b456f6d-9cf4-4c7b-850b-0f6de74f2684",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 153.13662719726562,
+          "fullString": "Network Access Control 122",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "Network Access Control",
+              "width": 139.53076171875,
+              "x": 6.8029327392578125,
+              "y": 12.53397815551758
+            },
+            {
+              "text": "122",
+              "width": 22.386520385742188,
+              "x": 65.37505340576172,
+              "y": 33.53401565551758
+            }
+          ],
+          "textWidth": 139.53076171875,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "31fc2e45-07db-780e-51f2-5eaf2ea252be",
+        "number": 22
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cylinder",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "",
+        "position": {
+          "x": 409,
+          "y": 321
+        },
+        "size": {
+          "width": 122,
+          "height": 110
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"6612695a-eaf5-bc1a-e888-9f920cd73251\" id=\"id13e091ca-4400-26f9-9e3c-dff786f7e141\" data-type=\"term\">network access rules</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "897db8a1-db81-4e82-a751-089cd347c42f",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 108.61801147460938,
+          "fullString": "Network Access Rules 124",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "Network Access",
+              "width": 92.45256042480469,
+              "x": 8.082725524902344,
+              "y": 5.051880529785159
+            },
+            {
+              "text": "Rules 124",
+              "width": 58.449127197265625,
+              "x": 25.084442138671875,
+              "y": 26.051918029785156
+            }
+          ],
+          "textWidth": 92.45256042480469,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "96f3f568-d8f0-777b-1329-0c98f63e4940",
+        "number": 24
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "titlecase",
+        "name": "<p><span data-role=\"tag\" data-value=\"ef961817-712c-5049-a59e-9e856013fe0c\" id=\"idda62fe3a-d1f0-30e8-3178-269ffb667db6\" data-type=\"term\">server</span></p>",
+        "position": {
+          "x": 725,
+          "y": 83
+        },
+        "size": {
+          "width": 79.37008094787598,
+          "height": 98.26771926879883
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "5303870e-9096-4800-b974-51ad1ac0033e",
+        "z": 15,
+        "labelLayout": {
+          "labelBoxWidth": 72.9593505859375,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 36.47967529296875,
+              "y": 26.755009020996095
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "c8408cbe-4fc3-14fc-ca18-6628e421ac65",
+        "number": 26
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "titlecase",
+        "showLabel": true,
+        "source": {
+          "id": "7a791dce-da0a-49a0-b4ac-fec6c01f0518"
+        },
+        "target": {
+          "id": "5303870e-9096-4800-b974-51ad1ac0033e"
+        },
+        "id": "8826fb62-98fe-4f1c-9c5d-60fd9b2c737a",
+        "embeds": "",
+        "z": 16,
+        "routing": "straight",
+        "objectID": "7ab0fe35-4295-2ee5-cbec-fcf35a7e229b",
+        "labelVAlign": "center",
+        "labelPosition": "internal"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "laptop",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "titlecase",
+        "name": "<p><span data-role=\"tag\" data-value=\"83ddcb51-0ec6-4c30-e3cb-890b49a7e677\" id=\"id206ee3db-f612-9a2b-f064-09e7cee8fab5\" data-type=\"term\">laptop computer</span></p>",
+        "position": {
+          "x": 716,
+          "y": 218
+        },
+        "size": {
+          "width": 99.02362480163575,
+          "height": 81.63779754638672
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "417058be-db01-4df5-9781-89363740a8d6",
+        "z": 17,
+        "labelLayout": {
+          "labelBoxWidth": 73.82549285888672,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 36.91274642944336,
+              "y": 8.13344415588379
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "00d51cad-1794-32eb-6240-7e6bb20345b1",
+        "number": 28
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "titlecase",
+        "showLabel": true,
+        "source": {
+          "id": "417058be-db01-4df5-9781-89363740a8d6"
+        },
+        "target": {
+          "x": 573,
+          "y": 315
+        },
+        "id": "48a2efdf-a3ca-4db1-9cb5-1819e9bc0c84",
+        "embeds": "",
+        "z": 18,
+        "routing": "straight",
+        "objectID": "4dfb1a55-646f-a5eb-2354-78760ebdc120",
+        "labelVAlign": "center",
+        "labelPosition": "internal"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "mobileDevice",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "titlecase",
+        "name": "<p><span data-role=\"tag\" data-value=\"dfaed7bc-6cca-7ad0-a586-3a220f0f3ffd\" id=\"idcc0d52cc-0396-5767-e5be-ee22b9d1cd60\" data-type=\"term\">smart device</span></p>",
+        "position": {
+          "x": 744,
+          "y": 380
+        },
+        "size": {
+          "width": 46.110237503051756,
+          "height": 96.00000267028808
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "id": "775bbe59-36ff-47a4-a848-e66c2cd9472f",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 34.86842727661133,
+          "fullString": " 130",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": " 130",
+              "width": 22.386520385742188,
+              "x": 6.24095344543457,
+              "y": 18.53484567565918
+            }
+          ],
+          "textWidth": 22.386520385742188,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "e8f121f8-ed97-0b24-b54b-12780682da6e",
+        "number": 30
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "titlecase",
+        "showLabel": true,
+        "source": {
+          "id": "775bbe59-36ff-47a4-a848-e66c2cd9472f"
+        },
+        "target": {
+          "x": 574,
+          "y": 376
+        },
+        "id": "fc63556e-427c-4f8f-b0be-100cc0e2b860",
+        "embeds": "",
+        "z": 20,
+        "routing": "straight",
+        "objectID": "e372aaf6-3ab5-8c39-32d0-06497e108985",
+        "labelVAlign": "center",
+        "labelPosition": "internal"
+      }
+    ]
+  }
+}
