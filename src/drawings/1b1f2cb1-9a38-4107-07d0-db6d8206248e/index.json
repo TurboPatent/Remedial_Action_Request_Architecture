@@ -51,7 +51,7 @@
         "isNumbered": true,
         "outsideNumbers": false,
         "displayCase": "uppercase",
-        "name": "",
+        "name": "<p><span data-role=\"tag\" data-value=\"ec197f9d-0239-91b6-7996-d8d05eadc1fa\" id=\"idae8ecc4e-abd9-149a-d943-15d74449cf61\" data-type=\"term\">client computing facility</span></p>",
         "position": {
           "x": 32.999999999998295,
           "y": 171.00000000000102
@@ -63,7 +63,7 @@
         "angle": 0,
         "label": "<span data-role=\"tag\" data-value=\"c5423580-697a-a31e-3720-5f1ac78d9d6f\" id=\"id00529430-0941-bd13-0bb8-96e8794e3ece\" data-type=\"term\">client facility</span>",
         "strokeStyle": "solid",
-        "hasName": false,
+        "hasName": true,
         "labelPosition": "internal",
         "numberPosition": "position4",
         "id": "2d4bd836-3675-4fad-9177-4588f5fe8fbf",
@@ -249,27 +249,27 @@
         "id": "57ea39de-4449-9ada-336f-4f692452c1c8",
         "z": 6,
         "labelLayout": {
-          "labelBoxWidth": 100.20500946044922,
+          "labelBoxWidth": 100.3853530883789,
           "fullString": "Application Auto or User Request 112",
           "endPad": 7.4621734619140625,
           "lines": [
             {
               "text": "Application Auto",
               "width": 97.57313537597656,
-              "x": 1.3159370422363281,
-              "y": -0.6861924957275356
+              "x": 1.4061088562011719,
+              "y": -0.6010312866210903
             },
             {
               "text": "or User Request",
               "width": 95.95132446289062,
-              "x": 2.126842498779297,
-              "y": 20.313845004272462
+              "x": 2.2170143127441406,
+              "y": 20.399006213378907
             },
             {
               "text": "112",
               "width": 22.386520385742188,
-              "x": 38.909244537353516,
-              "y": 41.313882504272456
+              "x": 38.99941635131836,
+              "y": 41.3990437133789
             }
           ],
           "textWidth": 97.57313537597656,
@@ -303,15 +303,15 @@
         "id": "c3a151ae-0ead-d912-962a-f82df0d3b0a5",
         "z": 7,
         "labelLayout": {
-          "labelBoxWidth": 100.20503234863281,
+          "labelBoxWidth": 100.3853530883789,
           "fullString": "IDE 114",
           "endPad": 7.4621734619140625,
           "lines": [
             {
               "text": "IDE 114",
               "width": 45.948394775390625,
-              "x": 27.128318786621094,
-              "y": 20.31360658569336
+              "x": 27.21847915649414,
+              "y": 20.399006213378907
             }
           ],
           "textWidth": 45.948394775390625,
@@ -409,21 +409,21 @@
         "id": "20593fb9-bdcc-4ed1-a2d5-08df7769d48a",
         "z": 10,
         "labelLayout": {
-          "labelBoxWidth": 100.2066650390625,
+          "labelBoxWidth": 100.3853530883789,
           "fullString": "Policy Facility 118",
           "endPad": 7.4621734619140625,
           "lines": [
             {
               "text": "Policy Facility",
               "width": 77.79244995117188,
-              "x": 11.207107543945312,
-              "y": 9.808777502441409
+              "x": 11.296451568603516,
+              "y": 9.898987463378909
             },
             {
               "text": "118",
               "width": 22.386520385742188,
-              "x": 38.910072326660156,
-              "y": 30.808815002441406
+              "x": 38.99941635131836,
+              "y": 30.899024963378906
             }
           ],
           "textWidth": 77.79244995117188,
@@ -528,21 +528,21 @@
         "id": "9b456f6d-9cf4-4c7b-850b-0f6de74f2684",
         "z": 13,
         "labelLayout": {
-          "labelBoxWidth": 153.13662719726562,
+          "labelBoxWidth": 153.31581115722656,
           "fullString": "Network Access Control 122",
           "endPad": 7.4621734619140625,
           "lines": [
             {
               "text": "Network Access Control",
               "width": 139.53076171875,
-              "x": 6.8029327392578125,
-              "y": 12.53397815551758
+              "x": 6.892524719238281,
+              "y": 12.625370672607424
             },
             {
               "text": "122",
               "width": 22.386520385742188,
-              "x": 65.37505340576172,
-              "y": 33.53401565551758
+              "x": 65.46464538574219,
+              "y": 33.62540817260742
             }
           ],
           "textWidth": 139.53076171875,
@@ -577,21 +577,21 @@
         "id": "897db8a1-db81-4e82-a751-089cd347c42f",
         "z": 14,
         "labelLayout": {
-          "labelBoxWidth": 108.61801147460938,
+          "labelBoxWidth": 108.79220581054688,
           "fullString": "Network Access Rules 124",
           "endPad": 7.4621734619140625,
           "lines": [
             {
               "text": "Network Access",
               "width": 92.45256042480469,
-              "x": 8.082725524902344,
-              "y": 5.051880529785159
+              "x": 8.169822692871094,
+              "y": 5.098711660766604
             },
             {
               "text": "Rules 124",
               "width": 58.449127197265625,
-              "x": 25.084442138671875,
-              "y": 26.051918029785156
+              "x": 25.171539306640625,
+              "y": 26.0987491607666
             }
           ],
           "textWidth": 92.45256042480469,
